@@ -4,7 +4,7 @@
         "Read more about it at https://getcomposer.org/doc/01-basic-usage.md#installing-dependencies",
         "This file is @generated automatically"
     ],
-    "content-hash": "f8f9e9e6997f9c08a717b9a36f1cf1b4",
+    "content-hash": "a4728925069c7ef0cf575224a53ec6b3",
     "packages": [
         {
             "name": "doctrine/annotations",
@@ -1863,7 +1863,7 @@
         },
         {
             "name": "symfony/asset",
-            "version": "v4.4.3",
+            "version": "v4.4.4",
             "source": {
                 "type": "git",
                 "url": "https://github.com/symfony/asset.git",

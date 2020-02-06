@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="rockpaperscissors@localhost" uuid="2654892d-5ee9-4a34-9340-2fba9c87e860">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/rockpaperscissors</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="@localhost" uuid="88f0aa5e-6607-4cd9-98d1-d53e08ac9f62">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306</jdbc-url>
+    </data-source>
+    <data-source source="LOCAL" name="a2pr@localhost" uuid="b19456a0-08a5-4cb5-bf3f-69efd0c2856d">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/rockpaperscissors</jdbc-url>
+    </data-source>
+  </component>
+</project>
